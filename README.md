@@ -1,2 +1,2 @@
 # Java
-A Thread exercise with Java
+A simple Java GUI application 
